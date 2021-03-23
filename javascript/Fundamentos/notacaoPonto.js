@@ -1,0 +1,1 @@
+console.log('o ponto é a forma de acessar membros e atributos de objetos e funções e classes em códigos')
